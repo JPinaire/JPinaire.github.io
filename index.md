@@ -13,11 +13,12 @@ I have defended my thesis in Biostatistics, in october 2017, made under the supe
 pinaire.jessica@gmail.com
 
 #### Find me on : 
-[Link](https://fr.linkedin.com/in/jessica-pinaire-59b2aa90)
+[LinkedIn](https://fr.linkedin.com/in/jessica-pinaire-59b2aa90)
 
 ### Other usefull links
-[Link](http://www.lirmm.fr)
-[Link](http://http://www.umontpellier.fr/)
+[Lirmm](http://www.lirmm.fr)
+
+[UM](http://http://www.umontpellier.fr/)
 
 <!-- ### Markdown
 
