@@ -1,10 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my web page
 
-You can use the [editor on GitHub](https://github.com/JPinaire/JPinaire.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have defended my thesis in Biostatistics, in october 2017, made under the supervision of Paul Landais, Jérôme Azé and Sandra Bringay at the University of Montpellier, France, at the Laboratory of Informatics, Robotics, and Microelectronics of Montpellier (LIRMM) in Advanse team (ADVanced Analytics for data SciencE), UPRES EA2415 (Laboratoire de Biostatistique, d'Epidémiologie et de Santé Publique). I worked on exploring health patient trajectories on myocardial infarction via French national hospital databases. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My research interest
 
-### Markdown
+ - Data Mining
+ - Clustering
+ - Prediction modelling
+ - Health databases
+
+### Contact 
+pinaire.jessica@gmail.com
+
+#### Find me on : 
+[Link](https://fr.linkedin.com/in/jessica-pinaire-59b2aa90)
+
+### Other usefull links
+[Link](http://www.lirmm.fr)
+[Link](http://http://www.umontpellier.fr/)
+
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,4 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
