@@ -12,8 +12,9 @@ I have defended my thesis in Biostatistics, in october 2017, made under the supe
 ### Contact 
 pinaire.jessica@gmail.com
 
-#### Find me on : 
+#### Follow me on : 
 [LinkedIn](https://fr.linkedin.com/in/jessica-pinaire-59b2aa90)
+[HAL](https://hal.archives-ouvertes.fr/)
 
 ### Other usefull links
 [Lirmm](http://www.lirmm.fr)
